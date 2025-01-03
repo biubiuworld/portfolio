@@ -6,7 +6,7 @@
 #### Machine Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, K-Means, KNN, XGBoost
 #### Big Data: PySpark(DataFrame, SQL), NLP(Spacy, regular expression, NLTK)
 
-### Ongoing Research Projects
+## Ongoing Research Projects
 
 **Self-Enforcing Cycles in Large Timing Games**
 - Developed a **game theory model** to analyze strategic behavior in timing competitive actions, enhancing understanding of market entry and exit strategies.
@@ -31,7 +31,7 @@
 - Developed, trained, and evaluated multiple **machine learning** models (Logistic Regression, Random Forest, Decision Trees, Gradient Boosted Trees, and SVM) to predict user sentiment from reviews, achieving an initial accuracy of over 80% on a diverse and extensive dataset.
 - Optimized model performance through rigorous **hyperparameter tuning** using **Cross Validation** and **Grid Search**, improving accuracy by 10%; effectively scaled the deployment of the best-performing model to enhance real-time sentiment analysis capabilities for Yelp review data.
 
-### Work Experience
+## Work Experience
 **Teaching Assistant @ Economics Department, UC Santa Cruz (_Jan 2020 - Present_)**
 - Served as a Teaching Assistant for over 7 diverse courses in economics, ranging from introductory to advanced levels.
 - Holded weekly sessions and office hours for introductory and intermediate economics courses, significantly enhancing students' understanding of complex theories and applications.
