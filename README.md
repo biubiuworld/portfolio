@@ -1,29 +1,30 @@
 # Weinan's Portfolio
 ## Skills
-#### Programming  Languages: Python, SQL, STATA, LaTex, JavaScript, HTML/CSS
+#### Programming Languages: Python, SQL, STATA, LaTex, JavaScript, HTML/CSS
 #### Quantitative Analysis: Experimental Design, Causal Inference
 #### Data Visualization: Matplotlib, Seaborn
-#### Machine Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, K-Means, KNN, XGBoost
-#### Big Data: PySpark(DataFrame, SQL), NLP(Spacy, regular expression, NLTK)
+#### Machine Learning: Supervised Learning(Linear Regression, Logistic Regression, Decision Trees, Random Forest); Unsupervised Learning(K-Means, KNN); Ensemble Methods(XGBoost)
+#### Big Data Technologies: PySpark(DataFrame, SQL), NLP(Spacy, regular expression, NLTK)
 
 ## Ongoing Research Projects
 
 **Self-Enforcing Cycles in Large Timing Games**
 - Developed a **game theory model** to analyze strategic behavior in timing competitive actions, enhancing understanding of market entry and exit strategies.
 - Conducted **simulations** in **Python**, employing various plausible adaptive dynamics, to assess the stability of model prediction. Implemented a robust optimization **pipeline** that enhanced simulation efficiency by 50%. 
-- Designed, implemented and conducted an interactive **lab experiment** using oTree (Python package) and **Javascript** to validate model predictions against actual human behavior.
+- Designed, implemented and conducted an interactive **lab experiment** using **oTree** (Python package) and **Javascript**, deployed via **Google Cloud**, to validate model predictions against actual human behavior.
 - Preprocessed and analyzed the experimental data using **Python** tools (**Pandas, Matplotlib, Seaborn**), and visualized players’ animations using celluloid (Python package).
 
 **Opinion Polarization in Online Social Networks**
 - Contributed to construct a theoretical model, which combines endogenous network formation setup and personalization mechanism, to investigate the effect of personalization on polarization.
 - Collaborated to develop **Python simulations**, testing diverse parameters to forecast patterns and trends in opinion evolution and polarization levels.
-- Designed, coded, and conducted lab experiments using oTree (Python package) and Javascript to validate simulation outcomes with experimental results.
-- Managed the cleaning and analysis of experimental data using Python tools (Pandas, Matplotlib, Seaborn).
+- Designed, coded, and conducted lab experiments using **oTree** and **Javascript** to validate simulation outcomes with experimental results.
+- Preprocessed and engineered features for experimental data using **Python** tools (**Pandas, Matplotlib, Seaborn**), and applied **statistical methods** including Ordinary Least Squares (OLS) and probit models to analyze player connection patterns and interpret the relationship between personalization and polarization.
 
 **The Effects of Democracy: Equality and Fairness**
-- Proposed a realistic experiment to investigate the effect of democracy when when rigorously controling for self-selection biases and information effects.
-- Designed and coded the lab experiment using oTree (Python package), and conducted experiments with more than 700 subjects.
-- Cleaned and evaluated the effect of democracy by using linear regression, logistic regression and probit model.
+- Designed a robust **experiment** to analyze the impacts of democracy, rigorously controlling for self-selection biases and information effects to avoid confounding factors.
+- Engineered and executed the experiment using **oTree** and **JavaScript**, deployed via **Heroku**, engaging over 700 participants representative of the U.S. population to secure a diverse and comprehensive dataset.
+- Developed and implemented a data preprocessing **pipeline** that incorperated experimental data with demographics, enabling nuanced analysis of democracy's effects segmented by age and education levels.
+- Employed advanced **statistical models**, including linear regression, logistic regression, and probit models, to rigorously test, quantify, and visualize the effects of democracy across various treatment groups.
 
 **Sentiment Analysis of Yelp Reviews with NLP and ML Models**
 - Conducted comprehensive data preprocessing and EDA using **PySpark DataFrame** and **SQL** on over 7 million Yelp reviews, identifying key trends and top-performing restaurants based on review volume and ratings, setting a robust foundation for subsequent analyses.
