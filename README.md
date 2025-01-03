@@ -32,7 +32,7 @@
 - Optimized model performance through rigorous **hyperparameter tuning** using **Cross Validation** and **Grid Search**, improving accuracy by 10%; effectively scaled the deployment of the best-performing model to enhance real-time sentiment analysis capabilities for Yelp review data.
 
 ### Work Experience
-** Teaching Assistant @ Economics Department, UC Santa Cruz (_Jan 2020 - Present_)**
+**Teaching Assistant @ Economics Department, UC Santa Cruz (_Jan 2020 - Present_)**
 - Served as a Teaching Assistant for over 7 diverse courses in economics, ranging from introductory to advanced levels.
 - Holded weekly sessions and office hours for introductory and intermediate economics courses, significantly enhancing students' understanding of complex theories and applications.
 - Collaborated with multiple professors to tailor and refine course content and assessment methods, ensuring materials were up-to-date and engaging for all course iterations.
