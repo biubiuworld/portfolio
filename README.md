@@ -38,3 +38,9 @@
 - Collaborated with multiple professors to tailor and refine course content and assessment methods, ensuring materials were up-to-date and engaging for all course iterations.
 - Conducted detailed assessment evaluations through homeworks and exams, providing critical feedback that contributed to improved student performances.
 
+**Research Assistant @ Economics Department, University of Wisconsin-Madison (_Jun 2018 - May 2019_)**
+**_One Acre Fund’s Small Farm Program_**
+- Utilized **ArcGIS** to match climate data with coordinates from participants in the One Acre Fund Randomized Controlled Trial (RCT) and edited a **Python** script for a more generalized process
+- Edited a **Matlab** script to generate rainfall variables based on farmers’ planting and harvesting dates
+- Analyzed the effect of rainfall prior to planting on maize yields using **OLS** and **Logit** models in **STATA**
+
