@@ -28,7 +28,7 @@
 
 **Sentiment Analysis of Yelp Reviews with NLP and ML Models**
 - Conducted comprehensive data preprocessing and EDA using **PySpark DataFrame** and **SQL** on over 7 million Yelp reviews, identifying key trends and top-performing restaurants based on review volume and ratings, setting a robust foundation for subsequent analyses.
-- Architected and implemented an advanced **NLP pipeline** with **PySpark** to process and clean Yelp's large-scale review data, incorporating techniques such as tokenization, normalization, lemmatization, and stopword removal, followed by feature engineering with **HashingTF** and **IDF** vectorization.
+- Architected and implemented an advanced **NLP pipeline** with **PySpark** to process and clean Yelp's large-scale review data, incorporating techniques such as tokenization, normalization, lemmatization, and stopword removal, followed by feature engineering with **HashingTF** and **IDF**.
 - Developed, trained, and evaluated multiple **machine learning** models (Logistic Regression, Random Forest, Decision Trees, Gradient Boosted Trees, and SVM) to predict user sentiment from reviews, achieving an initial accuracy of over 80% on a diverse and extensive dataset.
 - Optimized model performance through rigorous **hyperparameter tuning** using **Cross Validation** and **Grid Search**, improving accuracy by 10%; effectively scaled the deployment of the best-performing model to enhance real-time sentiment analysis capabilities for Yelp review data.
 
