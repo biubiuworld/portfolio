@@ -3,7 +3,7 @@
 #### Programming Languages: Python, SQL, STATA, LaTex, JavaScript, HTML/CSS
 #### Quantitative Analysis: Experimental Design, Causal Inference
 #### Data Visualization: Matplotlib, Seaborn
-#### Machine Learning: Supervised Learning(Linear Regression, Logistic Regression, Decision Trees, Random Forest); Unsupervised Learning(K-Means, KNN); Ensemble Methods(XGBoost)
+#### Machine Learning: Supervised Learning(Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM); Unsupervised Learning(K-Means, KNN); Ensemble Methods(XGBoost)
 #### Big Data Technologies: PySpark(DataFrame, SQL), NLP(Spacy, regular expression, NLTK)
 
 ## Ongoing Research Projects
