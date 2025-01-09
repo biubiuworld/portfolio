@@ -6,7 +6,27 @@
 #### Machine Learning: Supervised Learning(Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM); Unsupervised Learning(K-Means, KNN); Ensemble Methods(XGBoost)
 #### Big Data Technologies: PySpark(DataFrame, SQL), NLP(Spacy, regular expression, NLTK)
 
-## Ongoing Research Projects
+## Work Experience
+**Graduate Researcher @ Economics Department, UC Santa Cruz (_Sep 2019 - Present_)**
+- Developed conceptual frameworks and theoretical models to analyze strategic behaviors and impacts across various scenarios.
+- Built Python scripts to validate theories through simulations, achieving a significant increase in computational efficiency through robust optimization techniques.
+- Engineered and executed comprehensive experiments using the oTree platform and JavaScript, deployed on Google Cloud and Heroku, to simulate and analyze human behavior in controlled settings, effectively linking theoretical predictions with empirical data.
+- Managed data preprocessing, feature engineering, and complex data analyses using Python tools such as Pandas, Matplotlib, and Seaborn; applied advanced machine learning techniques including logistic regression, Random Forest, and XGBoost to extract actionable insights from large datasets.
+- Conducted sentiment analysis projects on millions of textual data points, utilizing PySpark and advanced NLP techniques for data preprocessing; implemented systematic model optimization strategies, including cross-validation and grid search, which enhanced prediction accuracy.
+
+**Teaching Assistant @ Economics Department, UC Santa Cruz (_Jan 2020 - Present_)**
+- Served as a Teaching Assistant for over 7 diverse courses in economics, ranging from introductory to advanced levels.
+- Held weekly sessions and office hours for introductory and intermediate economics courses, significantly enhancing students' understanding of complex theories and applications.
+- Collaborated with multiple professors to tailor and refine course content and assessment methods, ensuring materials were up-to-date and engaging for all course iterations.
+- Conducted detailed assessment evaluations through homeworks and exams, providing critical feedback that contributed to improved student performances.
+
+**Research Assistant @ Economics Department, University of Wisconsin-Madison (_Jun 2018 - May 2019_)**
+**_One Acre Fund’s Small Farm Program_**
+- Utilized **ArcGIS** to match climate data with coordinates from participants in the One Acre Fund Randomized Controlled Trial (RCT) and edited a **Python** script for a more generalized process
+- Edited a **Matlab** script to generate rainfall variables based on farmers’ planting and harvesting dates
+- Analyzed the effect of rainfall prior to planting on maize yields using **OLS** and **Logit** models in **STATA**
+
+## Projects
 
 **Self-Enforcing Cycles in Large Timing Games**
 - Developed a **game theory model** to analyze strategic behavior in timing competitive actions, enhancing understanding of market entry and exit strategies.
@@ -32,16 +52,5 @@
 - Developed, trained, and evaluated multiple **machine learning** models (Logistic Regression, Random Forest, Decision Trees, Gradient Boosted Trees, and SVM) to predict user sentiment from reviews, achieving an initial accuracy of over 80% on a diverse and extensive dataset.
 - Optimized model performance through rigorous **hyperparameter tuning** using **Cross Validation** and **Grid Search**, improving accuracy by 10%; effectively scaled the deployment of the best-performing model to enhance real-time sentiment analysis capabilities for Yelp review data.
 
-## Work Experience
-**Teaching Assistant @ Economics Department, UC Santa Cruz (_Jan 2020 - Present_)**
-- Served as a Teaching Assistant for over 7 diverse courses in economics, ranging from introductory to advanced levels.
-- Holded weekly sessions and office hours for introductory and intermediate economics courses, significantly enhancing students' understanding of complex theories and applications.
-- Collaborated with multiple professors to tailor and refine course content and assessment methods, ensuring materials were up-to-date and engaging for all course iterations.
-- Conducted detailed assessment evaluations through homeworks and exams, providing critical feedback that contributed to improved student performances.
 
-**Research Assistant @ Economics Department, University of Wisconsin-Madison (_Jun 2018 - May 2019_)**
-**_One Acre Fund’s Small Farm Program_**
-- Utilized **ArcGIS** to match climate data with coordinates from participants in the One Acre Fund Randomized Controlled Trial (RCT) and edited a **Python** script for a more generalized process
-- Edited a **Matlab** script to generate rainfall variables based on farmers’ planting and harvesting dates
-- Analyzed the effect of rainfall prior to planting on maize yields using **OLS** and **Logit** models in **STATA**
 
